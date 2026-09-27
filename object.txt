@@ -1,0 +1,1414 @@
+0|Empty
+1|Ground
+2|Jump
+3|Fragile 0
+4|Fragile 1
+5|Fragile 2
+6|Iscolated Fragile
+7|Row Fragile
+8|Column Fragile
+9|Dangerous Crusher
+10|Safe Crusher
+11|Dangerous Crusher on a Fragile
+12|Safe Crusher on a Fragile
+13|Mover Separator (Top)
+14|Mover Separator (Bottom)
+15|Mover Separator (Left)
+16|Mover Separator (Right)
+17|Mover Separator (Top, Left)
+18|Mover Separator (Bottom, Left)
+19|Mover Separator (Top, Right)
+20|Mover Separator (Bottom, Right)
+21|Riser
+22|Riser on a Fragile
+23|Riser on an Iscolated Fragile
+24|Riser on a Row Fragile
+25|Riser on a Tile Sliding Left
+26|Riser on a Tile Sliding Right
+27|Tile Sliding Left
+28|Tile Sliding Right
+29|Tall Tree
+30|Tall Tree on a Fragile
+31|Tall Tree on a Tile Sliding Left
+32|Tall Tree on a Tile Sliding Right
+33|Palm Tree
+34|Palm Tree on a Fragile
+35|Palm Tree on a Tile Sliding Left
+36|Palm Tree on a Tile Sliding Right
+37|Mover Separator (Top, Left, Right)
+38|Mover Separator (Bottom, Left, Right)
+39|Mover Separator (Top, Bottom, Left)
+40|Mover Separator (Top, Bottom, Right)
+41|Roller (Left)
+42|Roller (Right)
+43|Roller on a Fragile (Left)
+44|Roller on a Fragile (Right)
+45|Star
+46|Star on a Fragile
+47|Star on Air
+48|Isolated Mover (Forwards)
+49|Radio Tower
+50|Radio Tower on a Fragile
+51|Rising Shinto Arch
+52|Rising Shinto Arch on a Fragile
+53|Lowering Shinto
+54|Lowering Shinto on a Fragile
+55|Horizontal Red E-Labyrinth Laser
+56|Vertical Red E-Labyrinth Laser
+57|Horizontal Blue E-Labyrinth Laser
+58|Vertical Blue E-Labyrinth Laser
+59|Mover Separator (Top, Bottom)
+60|Mover Separator (Left, Right)
+61|Mover (Forwards)
+62|Mover (Backwards)
+63|Mover (Left)
+64|Mover (Right)
+65|Mover Auto (Forwards)
+66|Mover Auto (Backwards)
+67|Mover Auto (Left)
+68|Mover Auto (Right)
+69|Isolated Mover Auto (Forwards)
+70|Isolated Mover Auto (Backwards)
+71|Isolated Mover Auto (Left)
+72|Isolated Mover Auto (Right)
+73|Mover Auto (Left, Edged: [Top, Bottom, Right])
+74|Mover Auto (Right, Edged: [Top, Bottom, Left])
+75|Mover Auto (Left, Edged: [Top, Bottom, Left])
+76|Mover Auto (Right, Edged: [Top, Bottom, Right])
+77|Red Laser Button
+78|Blue Laser Button
+79|E-Labyrinth Laser Emitter
+80|Lowering Block
+81|Gem
+82|Gem on a Fragile
+83|Gem on an Isolated Fragile
+84|Static Gem
+85|Static Gem on a Fragile
+86|Gem on a Jump Tile
+87|Gem on a Tile Sliding Left
+88|Gem on a Tile Sliding Right
+89|Block (Moving Left)
+90|Block (Moving Right)
+91|Block on a Fragile (Moving Left)
+92|Block on a Fragile (Moving Right)
+93|Tetromino (Vertical ▚▖ Shape [2x3])
+94|Tetromino (■◯ Shape [2x3])
+95|Tetromino (◞ Shape[2x3])
+96|Tetromino (◞▘Shape[3x2])
+97|Tetromino (▗▋▖ Shape[3x2])
+98|Tetromino (▗◞ Shape [3x2])
+99|Tetromino (▮Shape [1x4])
+100|Tetromino (▧ Shape [2x2])
+101|Small Hammer (Left)
+102|Small Hammer (Right)
+103|Small Hammer on a Fragile (Left)
+104|Small Hammer on a Fragile (Right)
+105|Slasher/Hammer (Left)
+106|Slasher/Hammer (Right)
+107|Slasher/Hammer on a Fragile (Left)
+108|Slasher/Hammer on a Fragile (Right)
+109|Harmless Small Hammer (Left)
+110|Harmless Small Hammer (Right)
+111|Harmless Small Hammer on a Fragile (Left)
+112|Harmless Small Hammer on a Fragile (Right)
+113|Slasher/Hammer (Left, Offset Right 1)
+114|Slasher/Hammer (Right, Offset Left 1)
+115|Slasher/Hammer on a Fragile (Left, Offset Right 1)
+116|Slasher/Hammer on a Fragile (Right, Offset Left 1)
+117|Falling Tile
+118|UFO
+119|Quad Rotator
+120|Vertical Tesseract Launcher
+121|Turret (Backwards)
+122|Turret (Left)
+123|Turret (Right)
+124|Turret on a Fragile (Backwards)
+125|Turret on a Fragile (Left)
+126|Turret on a Fragile (Right)
+127|Turret (Left, Offset Left)
+128|Turret (Right, Offset Left)
+129|Turret (Left, Offset Right)
+130|Turret (Right, Offset Right)
+131|Turret on a Fragile (Left, Offset Left)
+132|Turret on a Fragile (Right, Offset Left)
+133|Turret on a Fragile (Left, Offset Right)
+134|Turret on a Fragile (Right, Offset Right)
+135|Snake Archway (3x2)
+136|Snake Wall (Horizontal 3x2)
+137|Snake Wall (Right, 2x2)
+138|Snake Wall (Left, 2x2)
+139|Snake (Backwards)
+140|Snake (3x3)
+141|Pillar (1 Tall)
+142|Pillar (2 Tall)
+143|Pillar (3 Tall)
+144|Pillar (3 Tall, 1 Above Ground)
+145|Pillar (Lowering)
+146|Pillar (1 Tall, 1 Above Ground)
+147|Pillar (2 Tall, 1 Above Ground)
+148|Pillar (4 Tall)
+149|Pillar Laser
+150|Ice Cube (Fade Out)
+151|Ice Cube (Dissapear)
+152|Ice Cube (Fade In)
+153|Rising Ground
+154|Tilting Floor
+155|Tilting Block (To Right)
+156|Tilting Block (To Left)
+157|Snake (Across Level, Left)
+158|Snake (Across Level, Right)
+159|Double Tilting Block (To Right)
+160|Double Tilting Block (To Left)
+161|Spotlight
+162|Spotlight on a Fragile
+163|Spotlight on a Sliding Tile (Left)
+164|Spotlight on a Sliding Tile (Right)
+165|Laser
+166|Laser on a Fragile
+167|Laser on a Sliding Tile (Left)
+168|Laser on a Sliding Tile (Right)
+169|Leaning Block
+170|Leaning Riser
+171|Miracle
+172|Leaning Harmony Tower
+173|Collapsing Harmony Tower
+174|Harmony Tower
+175|Hammer Tower (Falls on Left)
+176|Hammer Tower (Falls on Right)
+177|Skeleton (Left)
+178|Skeleton (Right)
+179|Skeleton
+180|Skeleton (Waving Hands)
+181|GeoBuffer Start (Empty)
+182|GeoBuffer Start (Ground)
+183|GeoBuffer Start (Fragile)
+184|GeoBuffer Start (Jump)
+185|GeoBuffer End (Empty)
+186|GeoBuffer End (Ground)
+187|GeoBuffer End (Fragile)
+188|GeoBuffer End (Jump)
+189|Tombstone
+190|Ghost
+191|Ghost (Moving Left)
+192|Ghost (Moving Right)
+193|Goop Cauldron
+194|Skeleton Hand
+195|Ghost Formation 1
+196|Ghost Formation 2
+197|Bat Swarm
+198|Jumping Pumpkin
+199|Haunted Gate (Opening)
+200|Haunted Gate (Closing)
+201|Stamp +Endless
+202|Stamp +1
+203|Stamp +2
+204|Stamp +3
+205|Stamp +4
+206|Stamp +5
+207|Isolated Mover (Forwards, Edged: [Top, Right, Bottom])
+208|Isolated Mover (Forwards, Edged: [Top, Left, Bottom])
+209|Isolated Mover (Left, Edged: [Top, Right, Bottom])
+210|Isolated Mover (Right, Edged: [Top, Left, Bottom])
+211|2D Christmas Tree Card
+212|2D Snowman Archway Card
+213|2D Present Archway Card
+214|2D Gingerbread Archway Card
+215|2D Reindeer Sleigh Card
+216|2D Balloon Present Card
+217|2D Santa Card
+218|Inflatable Santa
+219|Shifting Jump Tile (Left)
+220|Shifting Jump Tile (Right)
+221|Stamp Endless
+222|Stamp 1
+223|Stamp 2
+224|Stamp 3
+225|Stamp 4
+226|Stamp 5
+227|Off-Map Tiles (G-O-O)
+228|Off-Map Tiles (G-G-O)
+229|Off-Map Tiles (O-O-G)
+230|Off-Map Tiles (O-G-G)
+231|Off-Map Tiles (G-O-G)
+232|Off-Map Tiles (G-G-G)
+233|Christmas Tree (To 3D)
+234|Snowman (To 3D)
+235|Santa (To 3D)
+236|Gingerbread Man (To 3D)
+237|Bell Archway
+238|Inflatable Snowman
+239|Gingerbread Man (To Left)
+240|Gingerbread Man (To Right)
+241|Panda
+242|Pendulum on a Fragile (To Right)
+243|Pendulum on a Fragile (To Left)
+244|Spinning Stakes (Left)
+245|Spinning Stakes (Right)
+246|Small Bean
+247|Destroy Powerup
+248|Ghost (Moving Left)
+249|Ghost (Moving Right)
+250|Binary Extender 1
+251|Binary Extender 2
+252|Binary Extender 3
+253|Binary Extender 4
+254|Game Controller
+255|Super Jump
+256|Fighter Jet
+257|Bee
+258|Balloon Present
+259|Firework
+260|Rotating Christmas Tree
+261|Crown
+262|Crown on a Jump Tile
+263|Crown on a Sliding Tile (Left)
+264|Crown on a Sliding Tile (Right)
+265|Crown on a Shifting Jump Tile (Left)
+266|Crown on a Shifting Jump Tile (Right)
+267|Breakable Block
+268|Large Disk
+269|Invisible Ground
+270|Cyber Ghost (To Left)
+271|Cyber Ghost (To Right)
+272|Spinning Rhombus
+273|Spinning Rhombus Tree
+274|Cube Structure (◞▖ Shape)
+275|Cube Structure (▗▋▖ Shape)
+276|Cube Structure (:✚: Shape)
+277|Cube Structure (▗◞ Shape)
+278|Poker Tree on a Sliding Tile (Right)
+279|Poker Tree on a Sliding Tile (Left)
+280|Large Abstract
+281|Drop Tile
+282|Flipping Tile (0)
+283|Flipping Tile (1 Right)
+284|Flipping Tile (2 Right)
+285|Flipping Tile (1 Left)
+286|Flipping Tile (2 Left)
+287|Matrix Roller (Left)
+288|Matrix Roller (Right)
+289|Hollow Card
+290|Small Card Deck (Left)
+291|Small Card Deck (Right)
+292|Large Card Deck (Left)
+293|Large Card Deck (Right)
+294|Joker Statue
+295|Joker Card on a Fragile
+296|King Statue
+297|Sword Up
+298|Poker Tree
+299|Sword Down
+300|Poker Castle
+301|Alternating Quad Jump
+302|Magic Dove
+303|Rolling Umbrella (Left)
+304|Rolling Umbrella (Right)
+305|Poker Soldier (Left)
+306|Poker Soldier (Right)
+307|Speed Boost (Acceleration)
+308|Speed Boost (Deceleration)
+309|Reggae Speading Jump Pads 1
+310|Reggae Speading Jump Pads 2
+311|Bridge Tile
+312|Bridge Ramp Up
+313|Reggae Loudspeaker
+314|Pyramid Eye
+315|Invisible Jump Tile
+316|Bridge Ramp (Down)
+317|Reggae Large Radio
+318|Studio Plug (Left)
+319|Studio Plug (Right)
+320|Coconut Tree
+321|Reggae Man (Left)
+322|Reggae Man (Right)
+323|Reggae Rotating Pillar (Safe)
+324|Reggae Rotating Pillar (Unsafe)
+325|Jumping Tape Player
+326|Sliding Spikes
+327|Lighting Bolt
+328|Relics Teleportal (Start)
+329|Fidget Spinner (Clockwise)
+330|Fidget Spinner (Counterclockwise)
+331|Invisible Super Jump
+332|Spring Loudspeaker
+333|Relics Teleportal (End)
+334|Off-Map Tiles (G-F1-G)
+335|Off-Map Singular Tile (Left)
+336|Off-Map Singular Tile (Right)
+337|Relics Archway
+338|Broken Pillar
+339|Deer God with Tridents
+340|Fireplace
+341|Relics Castle
+342|Rising Pillar
+343|Relics Crystal
+344|Deer God with Lantern
+345|Whack-A-Mole Jump
+346|Whack-A-Mole Skull
+347|Owl
+348|Fairy Tale Tree
+349|Snow Particles
+350|Graffiti Wall
+351|Brick Wall
+352|Bounce Plate
+353|Basketball Hoop (Left)
+354|Basketball Hoop (Right)
+355|Bounce Net
+356|Breakdancing Basketball Player
+357|Basketball Player (Left)
+358|Basketball Player (Right)
+359|Jumping Basketball Player
+360|Tire Stack
+361|Steel Archway
+362|Garage Door
+363|Basketball Hoop (Center)
+364|Invisible Bounce Net
+365|Broken Net
+366|Invisible Tall Obstacle
+367|Activator Button
+368|Super Jump Dome
+369|Back 6 Tiles
+370|Frankenstein Monster
+371|Zombie
+372|Witch (Right)
+373|Spider (Down)
+374|Laser‑Mouthed Pumpkin
+375|Tombstone
+376|Vampire (Coffin)
+377|Midnight Gate
+378|Cross Pumpkin
+379|Vampire (Walking)
+380|Pillar (Forwards 2)
+381|Pillar (Backwards 2)
+382|Witch (Left)
+383|Spider (Cobweb)
+384|Invisible Deceleration
+385|Spider (Up)
+386|Reverser (Start)
+387|Reverser (End)
+388|Industrial Barrier (Horizontal)
+389|Industrial Barrier (Vertical)
+390|Laser Door
+391|Laser Air Wheel
+392|Handheald Laser (From Left)
+393|Handheald Laser (From Right)
+394|Alan Walker Cannon
+395|Shifting Tile (Left)
+396|Shifting Tile (Right)
+397|Mini Jump Tile
+398|Varying Stars
+399|Varying Paintball
+400|Varying Bell
+401|Varying Stockings
+402|Varying Snowman Head
+403|Lolipop
+404|Spinning Varying Tree
+405|Mini Candy Cane
+406|Snowboarder Gift
+407|Reindeer Giftbox
+408|Winter Fireplace
+409|Varying Archway
+410|Varying Doors
+411|Chimney Santa
+412|Popup Present Pile
+413|Ice Skating Santa (Show)
+414|Ice Skating Santa (Hide)
+415|Lolipop (Left)
+416|Lolipop (Right)
+417|Advancing Tile (1 Forward)
+418|Advancing Tile (2 Forward)
+419|Advancing Tile (3 Forward)
+420|Advancing Tile (4 Forward)
+421|Advancing Tile (5 Forward)
+422|Shifting Tile (Forwards)
+423|Shifting Tile (Backwards)
+424|Neon Frisbee
+425|Neon Pan
+426|Neon Speaker Tower
+427|Signal Robot (Left)
+428|Signal Robot (Right)
+429|Neon Door
+430|Neon Keyboard (Right)
+431|Neon Gear
+432|Neon Keyboard (Left)
+433|Ground [👁]
+434|Iscolated Fragile [👁]
+435|Mover (Forwards) [👁]
+436|Mover Auto (Forwards) [👁]
+437|Mover Auto (Left) [👁]
+438|Crown [👁]
+439|Crown on a Jump Tile [👁]
+440|Laser on a Fragile [👁]
+441|Pillar (1 Tall) [👁]
+442|Pillar (2 Tall) [👁]
+443|Falling Triangle [👁]
+444|Snake Statue [👁]
+445|Pillar (1 Tall, 1 Above Ground) [👁]
+446|Pillar (2 Tall, 1 Above Ground) [👁]
+447|Egyption Riser [👁]
+448|Shifting Pyramid (Forwards)
+449|Shifting Pyramid (Right)
+450|Shifting Pyramid (Left)
+451|Scarab
+452|Pharaoh Archway
+453|Egyption Riser
+454|Ankh Pillar
+455|Horus Eye
+456|Falling Triangle
+457|EnemyLv40Triangle
+458|EnemyLv40Snake
+459|Hieroglyphic Wall (Left)
+460|Hieroglyphic Wall (Right)
+461|Reinstating Ground (Left, 5 Tiles)
+462|Reinstating Ground (Right, 5 Tiles)
+463|Reinstating Ground (Left, 4 Tiles)
+464|Reinstating Ground (Right, 4 Tiles)
+465|Reinstating Ground (Left, 3 Tiles)
+466|Reinstating Ground (Right, 3 Tiles)
+467|Reinstating Ground (Left, 2 Tiles)
+468|Reinstating Ground (Right, 2 Tiles)
+469|Oculus Button (Start)
+470|Oculus Button (End)
+471|Ankh Slasher (Left)
+472|Ankh Slasher (Right)
+473|Gem on a Jump Tile [👁]
+474|Tilting Tile [👁]
+475|Tilting Block (Right) [👁]
+476|Tilting Block (Left) [👁]
+477|Double Tilting Block (Left) [👁]
+478|Double Tilting Block (Right) [👁]
+479|Circus Drum Shuffle
+480|Circus Drum
+481|Circus Bulb
+482|Circus Flaming Hoop
+483|Circus Pendulum (Left)
+484|Circus Pendulum (Right)
+485|Clown Unicycle (Right 2)
+486|Clown Unicycle (Left 2)
+487|Clown Puppet
+488|Clown on a Jump Tile
+489|Circus Trojan (Left)
+490|Circus Trojan (Right)
+491|Circus Gate
+492|Invisible Wall
+493|Hanging Circus Hoop
+494|Soccer Goal
+495|Goalie Gloves
+496|Foosball Player (1 Rotation)
+497|Soccer Advertisement (ROLLING SKY)
+498|Spinning Flag
+499|Soccer Trophy
+500|Scoreboard (0:1)
+501|Soccer Cone
+502|Soccer Cone (Up + Left 1)
+503|Soccer Cone (Up + Right 1)
+504|Peeling Tile (Left)
+505|Peeling Tile (Right)
+506|Red Card
+507|Yellow Card
+508|Invisible Wall
+509|Foosball Player (8 Rotations)
+510|Pivoting Tile (Up + Left 1)
+511|Pivoting Tile (Up + Right 1)
+512|Pivoting Tile (Down + Left 1)
+513|Pivoting Tile (Down + Right 1)
+514|Soccer Bounce Plate
+515|Scoreboard (0:2)
+516|Scoreboard (0:3)
+517|Scoreboard (0:4)
+518|Scoreboard (0:5)
+519|Scoreboard (0:6)
+520|Floating Gem
+521|Confetti
+522|Light Cube (Single)
+523|Light Cube (Double)
+524|Alone Door
+525|Bladeless Fan
+526|Mirrored Ball Portal (Start)
+527|Alone Mirrored Pyramid
+528|Alone Bursting Pyramid
+529|Alone Electronic Tower (1 Tall)
+530|Alone Electronic Tower (2 Tall)
+531|Alone Electronic Tower (3 Tall)
+532|Alone Electronic Tower (4 Tall)
+533|Descending Rings
+534|Alone Mechanism
+535|Invisible Riser
+536|Light Rod Tower (Left)
+537|Light Rod Tower (Right)
+538|Off‑Map Tiles (G‑F2‑G)
+539|Popup Alone Cubes
+540|Stacked Alone Cubes
+541|Light Cube (Left)
+542|Light Cube (Right)
+543|Light Cube (Forwards)
+544|Light Cube (Backwards)
+545|Mirrored Ball Portal (End)
+546|Clicking Tile (Left)
+547|Clicking Tile (Right)
+548|Clicking Tile (Backwards)
+549|Clicking Tile (Forwards)
+550|Fly Powerup
+551|Rising Faded Archway
+552|Lowering Faded Archway
+553|Floating Faded Rune
+554|Floating Faded Star
+555|Faded Cube Stack
+556|Large Faded Archway
+557|Large Broken Clock (Left)
+558|Large Broken Clock (Right)
+559|Tall Faded Rune
+560|Rolling Faded Cubes (Right)
+561|Morphing Faded Cube (Up)
+562|Morphing Faded Cube (Left)
+563|Morphing Faded Cube (Right)
+564|Joining Faded Cubes (Right)
+565|Joining Faded Cubes (Left)
+566|Splitting Faded Cubes (Left)
+567|Faded Pillar (1 Tall)
+568|Faded Piano Key
+569|Faded Pillar (2 Tall)
+570|Faded Pillar (3 Tall)
+571|Faded Pillar (4 Tall, 2 Wide)
+572|Falling Faded Cubes
+573|Popup Short Faded Pillar (Right)
+574|Popup Short Faded Pillar (Left)
+575|Popup Tall Faded Tower (Right)
+576|Popup Tall Faded Tower (Left)
+577|Faded Hammer Tower (Right)
+578|Faded Hammer Tower (Left)
+579|Clock Roller (Left)
+580|Clock Roller (Right)
+581|Alan Walker Mechanism
+582|Rolling Faded Cubes (Left)
+583|Splitting Faded Cubes (Right)
+584|Floating Crown
+585|Suspended Super Jump
+586|Ground [2]
+587|Roller (Left) [2]
+588|Roller (Right) [2]
+589|GeoBuffer Start (Ground) [2]
+590|Birthday Riser [2]
+591|Cyber Ghost [2]
+592|Birthday Rainbow (Right) [2]
+593|Birthday Rainbow (Left) [2]
+594|Hovering Spinning Diamond [2]
+595|Laser [2]
+596|Hovering Spinning Diamond
+597|Cyber Ghost
+598|Birthday Riser
+599|Birthday Rainbow (Right)
+600|Birthday Rainbow (Left)
+601|Rising Birthday Door
+602|Lowering Birthday Door
+603|3rd Anniversary Cake
+604|Pipe Teleportal (In)
+605|Pipe Teleportal (Out)
+606|String Suspended 3
+607|String Suspended Y
+608|Ground Supported E
+609|String Suspended A
+610|Ground Supported R
+611|String Suspended S
+612|3 Years 2016‑2019 Statue
+613|3 Years Star Statue
+614|Gem [2]
+615|Crown [2]
+616|Sliding Tile (Left) [2]
+617|Sliding Tile (Right) [2]
+618|Mover (Forwards) [2]
+619|Mover Auto (Forwards) [2]
+620|Row Fragile [2]
+621|2nd Floor to 1st Floor Tile
+622|Breakable Block [2]
+623|3 Years Star Statue
+624|Fragile 0 [2]
+625|1st Floor to 2nd Floor Tile
+626|Eyeball Monster (Random Side)
+627|Pipe Telportal (In) [2]
+628|Pipe Telportal (Out) [2]
+629|Eyeball Potion [2]
+630|Eyeball Potion
+631|Eyeball Bat Tower [2]
+632|Eyeball Bat Tower
+633|Pumpkin Witch Doll (Left) [2]
+634|Pumpkin Witch Doll (Left)
+635|Pumpkin Witch Doll (Right) [2]
+636|Pumpkin Witch Doll (Right)
+637|Skeleton with Pumpkin (Left) [2]
+638|Skeleton with Pumpkin (Left)
+639|Skeleton with Pumpkin (Right) [2]
+640|Skeleton with Pumpkin (Right)
+641|Skull with Cross Bones [2]
+642|Skull with Cross Bones
+643|Skull Structure  [2]
+644|Skull Structure
+645|Eyeball Monster (Right)
+646|Eyeball Monster (Left)
+647|Tall Candle [2]
+648|Enemy_647_Level52_lazhu
+649|Skeleton Arm (Left) [2]
+650|Skeleton Arm (Left)
+651|Skeleton Arm (Right) [2]
+652|Skeleton Arm (Right)
+653|Spooky Chainsaw (Left) [2]
+654|Spooky Chainsaw (Left)
+655|Spooky Chainsaw (Right) [2]
+656|Spooky Chainsaw (Right) [2]
+657|Ghost Gate [2]
+658|Ghost Gate
+659|Closing Skeleton Archway [2]
+660|Closing Skeleton Archway
+661|Opening Skeleton Archway [2]
+662|Opening Skeleton Archway
+663|Trick‑Or‑Treat Pumpkin [2]
+664|Trick‑Or‑Treat Pumpkin
+665|Jumping Pumpkin Skeleton (Left) [2]
+666|Jumping Pumpkin Skeleton (Left)
+667|Jumping Pumpkin Skeleton (Right) [2]
+668|Jumping Pumpkin Skeleton (Right)
+669|Jumping Pumpkin Skeleton (Up) [2]
+670|Jumping Pumpkin Skeleton (Up)
+671|Jump [2]
+672|Shuffling Gems
+673|Shuffling Gems [2]
+674|Lilliput Effect (Invisible Ball)
+675|Deactivate Ball Invisibility (From Tile 676)
+676|Invisible Pipe
+677|Cool & Dull Santa Doors
+678|Golden Tree (Tall) [2]
+679|Golden Tree (Tall)
+680|Landing Bell [2]
+681|Landing Bell
+682|Golden Ornaments [2]
+683|Golden Ornaments
+684|Splitting Presents Pile [2]
+685|Splitting Presents Pile
+686|Golden Trumpet (Facing Right) [2]
+687|Golden Trumpet (Facing Right)
+688|Golden Trumpet (Facing Left) [2]
+689|Golden Trumpet (Facing Left)
+690|Stockings Sign (Left, Label: Christmas) [2]
+691|Stockings Sign (Left, Label: Christmas)
+692|Stockings Sign (Right, Label: Merry) [2]
+693|Stockings Sign (Right, Label: Merry)
+694|Golden Tree (Small) [2]
+695|Golden Tree (Small)
+696|Snowball Snowman Head [2]
+697|Snowball Snowman head
+698|Splitting Snowman Head [2]
+699|Splitting Snowman Head
+700|Gingerbread Man Wind‑Up Toy (Right Handle) [2]
+701|Gingerbread Man Wind‑Up Toy (Right Handle)
+702|Gingerbread Man Wind‑Up Toy (Left Handle) [2]
+703|Gingerbread Man Wind‑Up Toy (Left Handle)
+704|Seesaw (Left Up)
+705|Seesaw (Right Up)
+706|Randomized TV Wall (1 Empty)
+707|(Missing: 707)
+708|Pyramid Speaker
+709|Marshmellow Loudspeaker (Left)
+710|Marshmellow Loudspeaker (Right)
+711|DJ Pyramid
+712|Opening Keyboard Archway
+713|Closing Keyboard Archway
+714|Spreading Wireframe Cubes
+715|Merging Wireframe Cubes
+716|Double Stacked Marshmellow TVs
+717|Marshmellow Barrier
+718|Marshmellow TV
+719|Hanging Marshmellow TV
+720|Double Stacked Marshmellow TVs
+721|Marshmellow Headband
+722|Marshmellow Cube Launcher
+723|Keyboard Door (Left Half Rising)
+724|Keyboard Door (Right Half Rising)
+725|Marshmellow Mixing Console
+726|Piggy Bank (Right)
+727|Piggy Bank (Left)
+728|Chinese Paper Lantern
+729|Piggy Bank Stack
+730|Dragon Lantern Dispenser
+731|Flashing 2019 Sign
+732|Drum
+733|Rising Chinese Archway
+734|Firecrackers
+735|Crumbling Chinese Archway
+736|Suspended Rhombus
+737|Lowering Chinese Archway
+738|Random Jump
+739|Rightside Bouncing Tile (5 Before Bounce)
+740|Rightside Bouncing Tile (4 Before Bounce)
+741|Rightside Bouncing Tile (3 Before Bounce)
+742|Rightside Bouncing Tile (2 Before Bounce)
+743|Rightside Bouncing Tile (1 Before Bounce)
+744|Spectre Mixing Console
+745|Levitating Wheel
+746|Spectre Tower (Left)
+747|Spectre Tower (Right)
+748|Spectre Scanning Gate
+749|(Missing: 749)
+750|Spectre Arrow Sign (Right‑Facing)
+751|Spectre Arrow Sign (Left‑Facing)
+752|Rising Spectre Archway
+753|Lowering Spectre Archway
+754|Alan Walker Ferrule
+755|Splitting Triangle Archway
+756|Spectre Droid
+757|Spectre Eyeball Light
+758|Spectre Laser Barrier
+759|Football
+760|Football Goal
+761|Crown on a Fragile
+762|Opening Gloves Door
+763|1 Pillar
+764|Football Trophy
+765|Blackboard
+766|Popcorn Football Bucket
+767|Crown on an Isolated Fragile
+768|Cheerleader
+769|Rightwards Shift
+770|Leftwards Shift
+771|Randomized Football Player
+772|Score Stack Counter
+773|Skull & Crossbones Flag (Right)
+774|Skull & Crossbones Flag (Left)
+775|Wine Barrel (Right)
+776|Wine Barrel (Left)
+777|Compass
+778|Pirate Ship Helm (Clockwise)
+779|Pirate Ship Helm (Counterclockwise)
+780|Rising Pirate Archway
+781|Lowering Pirate Archway
+782|Treasure Chest with 3 Coins
+783|Fog Cannon
+784|Pirate Ship Anchor
+785|Pirate Hook
+786|Collapsing Crates
+787|Skeleton Pirate (Right)
+788|Skeleton Pirate (Left)
+789|Treasure Chest with a Gem
+790|Treasure Chest with a Hiding Gem
+791|Erratic Ground (Rotate Counterclockwise)
+792|Erratic Ground (Shuffle Flipped)
+793|Erratic Ground (Shuffle Clockwise)
+794|Erratic Ground (Rotate Clockwise)
+795|Erratic Ground (Randomized Shape)
+796|Levitating Polyhedron
+797|Robotic Laser (Facing Right)
+798|Robotic Laser (Facing Left)
+799|Rising Microchip Door
+800|Lowering Microchip Door
+801|Microchip Riser
+802|Microchip Battery
+803|Microchips (─┘ Shape)
+804|Microchips (Counterclockwise Rotating └─┘ Shape)
+805|Microchips (Counterclockwise Rotating └─› Shape)
+806|Microchip Laser Barrier
+807|Microchip Sphere Pillar
+808|Rubiks Cube Tower
+809|Dynamic Eye
+810|Dynamic Semicircle (Right)
+811|Dynamic Semicircle (Left)
+812|Dynamic Mirrored Pyramid
+813|Dynamic String Piston
+814|Roller‑In‑A‑Box
+815|Rising Dynamic Archway
+816|Lowering Dynamic Archway
+817|Shifting Block Stack (Left)
+818|Shifting Block Stack (Right)
+819|Shifting Block Row (└└┘Shape)
+820|Shifting Block Row (┘┘──Shape)
+821|Shifting Block Row (Scattered Formation)
+822|Launching Drawer (Right)
+823|Launching Drawer (Left)
+824|Ascender Pad
+825|Ascender Pillar (1 Tall)
+826|Ascender Pillar (2 Tall)
+827|Ascender Pillar (3 Tall)
+828|Assembling Ground (U Shape)
+829|Assembling Ground (S Shape)
+830|Assembling Ground (O Shape)
+831|Assembling Ground (Rightwards Bridge)
+832|Assembling Ground (└── Shape)
+833|Assembling Ground (─└└ Shape)
+834|Assembling Ground (└└──Shape)
+835|Assembling Ground (─└└ Shape)
+836|Incline (Left)
+837|Incline (End)
+838|Polygon Wall (Triangle)
+839|Polygon Wall (Rectangle)
+840|Polygon Wall (Cross)
+841|Polygon Wall (Circle)
+842|Virtual Roller (Left +)
+843|Virtual Roller (Right +)
+844|Virtual Roller on a Fragile (Left +)
+845|Virtual Roller on a Fragile (Right +)
+846|Lowering Slope (Bottom Right)
+847|Lowering Slope (Bottom Left)
+848|Rising VR Headset Door
+849|Lowering VR Headset Door
+850|Game Control Tower
+851|Digital Beat
+852|Virtual Riser
+853|Virtual Riser on a Sliding Tile (Right)
+854|Virtual Riser on a Sliding Tile (Left)
+855|Rotating Key (Right)
+856|Rotating Key (Left)
+857|Virtual Riser on a Fragile
+858|Incline (Right)
+859|Color Pulse (Start)
+860|Color Pulse (Red)
+861|Color Pulse (Blue)
+862|Color Pulse (Yellow)
+863|Psychedelic Rune
+864|Pulsing Columns
+865|Crystal Crate
+866|Homing Beacon Dropper
+867|Pyramid Roller (Left)
+868|Pyramid Roller (Right)
+869|Rising Psychedelic Archway
+870|Lowering Psychedelic Archway
+871|Ray Emitter (Left)
+872|Ray Emitter (Right)
+873|Pulsing Robot
+874|EDM Machine (Down)
+875|Guitar Hammer (Left)
+876|Guitar Hammer (Right)
+877|Fly‑In Tile (From Left)
+878|Fly‑In Tile (From Right)
+879|Jumping Tile
+880|Jumping Block (1 Tall)
+881|Jumping Block (2 Tall)
+882|Jumping Block (3 Tall)
+883|Ricochet Pad (Leftwards)
+884|Ricochet Pad (Rightwards)
+885|EDM Machine (Up)
+886|Skewing Tile (Rightwards 0.5 Down)
+887|Skewing Tile (Leftwards 0.5 Down)
+888|Skewing Tile (Rightwards 1 Down)
+889|Skewing Tile (Leftwards 1 Down)
+890|Skewing Tile (Rightwards 2 Down)
+891|Skewing Tile (Leftwards 2 Down)
+892|Skewing Tile (Leftwards 0.5 Up)
+893|Skewing Tile (Rightwards 0.5 Up)
+894|Skewing Tile (Leftwards 1 Up)
+895|Skewing Tile (Rightwards 1 Up)
+896|Skewing Tile (Leftwards 2 Up)
+897|Skewing Tile (Rightwards 2 Up)
+898|Role Changer Giftbox
+899|Rising Birthday Archway
+900|Lowering Birthday Archway
+901|Off‑Map Tiles (G‑J‑G)
+902|Happy Birthday CD Player
+903|4 Years Stereo
+904|Balloon in a Giftbox
+905|Candy in a Giftbox
+906|4th Anniversary Cake
+907|Birthday Toy (Right)
+908|Birthday Toy (Left)
+909|Heart Giftbox
+910|Tall Birthday Abstract
+911|Small Birthday Abstract
+912|Small Birthday Abstract on a Sliding Tile (Right)
+913|Small Birthday Abstract on a Sliding Tile (Left)
+914|Pixel Ghost (Right)
+915|Pixel Ghost (Left)
+916|Carved Pumpkin Ghosts
+917|Pixel Gravestone
+918|Incarcerated Eyeball
+919|Skull Tree (Right Down)
+920|Skull Tree (Left Down)
+921|Jack‑o‑Lantern
+922|Zombie Hand (Left)
+923|Zombie Hand (Right)
+924|Large Bat
+925|Skeleton Arm Case
+926|Rising Skull Door
+927|Spinning Owl Mechanism (Right)
+928|Spinning Owl Mechanism (Left)
+929|Restoring Sliced Jack‑o‑Lantern
+930|Pixel Skeleton (Juggling Jack‑o‑Lantern)
+931|Pixel Skeleton (Throwing Jack‑o‑Lantern)
+932|Pixel Skeleton (Dragging Jack‑o‑Lantern)
+933|Pine Tree
+934|Gravity Shift (Left)
+935|Gravity Shift (Right)
+936|Wrapped Candy
+937|Pine Tree on a Sliding Tile (Right)
+938|Pine Tree on a Sliding Tile (Left)
+939|Tile Structure (Right)
+940|Tile Structure (Left)
+941|Smoke
+942|Invisibility
+943|Floating Cube
+944|S Pyramid Structure
+945|Tall Floating Cube
+946|Duplicating Sunset Cube
+947|Floating Pillar (Down)
+948|Floating Pillar (Up)
+949|Floating Wireframe Square Artifact
+950|Rising Sunset Door
+951|Lowering Sunset Door
+952|Sunset Semicircle (Right)
+953|Assembling Sunset Boxes (L Shape)
+954|Assembling Sunset Boxes (┌ Shape)
+955|Assembling Sunset Boxes (─› Shape)
+956|Assembling Sunset Boxes (└ Shape)
+957|Assembling Sunset Boxes (┌“ Shape)
+958|Assembling Sunset Boxes (Double Archway)
+959|Assembling Sunset Boxes (Defence Position)
+960|Sunset Semicircle (Left)
+961|Floating Present
+962|Spreading Snowman Head
+963|Christmas Fire Pit
+964|Christmas Decorations
+965|Mint Cube
+966|Shuffling Presents
+967|Leaning Santa (Right)
+968|Leaning Santa (Left)
+969|Aurora Bell (Down)
+970|Aurora Bell (Up)
+971|Opening Nutcracker Gate
+972|Closing Nutcracker Gate
+973|Aurora Pine
+974|Mint Stack
+975|Mint Stack on a Sliding Tile (Right)
+976|Mint Stack on a Sliding Tile (Left)
+977|Candle Fireplace
+978|Reindeer Gift (Gem)
+979|Candy Cane Barrier (Right)
+980|Candy Cane Barrier (Left)
+981|Reindeer Gift (No Gem)
+982|Rising Radio Archway
+983|Lowering Radio Archway
+984|Radio Station
+985|Kepler Riser
+986|Kepler Radar
+987|Kepler Riser on a Sliding Tile (Right)
+988|Kepler Riser on a Sliding Tile (Left)
+989|Meteorite
+990|Kepler Spike Planet
+991|Kepler PLanet Collection
+992|Kepler Rounded Planet
+993|Kepler CD Planet
+994|Space Spike
+995|Shapeshifting (Square)
+996|Shapeshifting (Triangle)
+997|Shapeshifting (Hexagon)
+998|Randomized Shaped Hole Wall
+999|Permanent Lilliput
+1000|Space Chainsaw
+1001|Kepler CD Player (Left)
+1002|Kepler CD Player (Right)
+1003|Lemon Cupcake
+1004|Rainbow Alien
+1005|Delicacy Door
+1006|Ice Cream Machine
+1007|Floating Pizza
+1008|Lemon Slice
+1009|Potato Fries
+1010|Toaster
+1011|Candy
+1012|Hot Dog (Left)
+1013|Hot Dog (Right)
+1014|Carrot
+1015|Hamburger
+1016|Pea Pod
+1017|Falling Cheese Block Tower
+1018|Cheese
+1019|Forming Cheese Blocks (─┘ Shape)
+1020|Forming Cheese Blocks (─└ Shape)
+1021|Dolphin Statue (Right)
+1022|Dolphin Statue (Left)
+1023|Angelfish (Right)
+1024|Angelfish (Left)
+1025|Rising Octopus Archway
+1026|Lowering Octopus Archway
+1027|Shark (Right)
+1028|Shark (Left)
+1029|Lively Coral
+1030|Seahorse
+1031|Dolphin Archway
+1032|Seaweed
+1033|Rocky Coral
+1034|Jellyfish
+1035|Whale
+1036|Pufferfish (Right)
+1037|Pufferfish (Left)
+1038|Submarine
+1039|Oyster with Pearl
+1040|Rolling Tile
+1041|Bubbles
+1042|Seaweed on a Sliding Tile (Right)
+1043|Seaweed on a Sliding Tile (Left)
+1044|Gear Box (Right)
+1045|Gear Box (Left)
+1046|Mechanical Hat
+1047|Lever (Right)
+1048|Lever (Left)
+1049|Mechanical Riser
+1050|Generator (Right)
+1051|Generator (Left)
+1052|Rising Mechanical Archway
+1053|Lowering Mechanical Archway
+1054|Mechanical Arm (Right)
+1055|Mechanical Arm (Left)
+1056|Record Player
+1057|Mechanical Horn
+1058|Airship (Right)
+1059|Airship (Left)
+1060|Mechanical Compass (Left)
+1061|Mechanical Compass (Right)
+1062|Hanging Keys
+1063|Mechanical Riser on a Sliding Tile (Right)
+1064|Mechanical Riser on a Sliding Tile (Left)
+1065|Top (1 Right)
+1066|Top (2 Right)
+1067|Top (3 Right)
+1068|Top (1 Left)
+1069|Top (2 Left)
+1070|Top (3 Left)
+1071|Mechanical Compass (Up)
+1072|Obstacle Swap
+1073|Lantern Slasher (Left)
+1074|Lantern Slasher (Right)
+1075|Dragon Mask with Sword
+1076|Japanese Flower
+1077|Opening Shoji Doors
+1078|Closing Shoji Doors
+1079|Lowering Torii
+1080|Rising Torii
+1081|Mini Pagoda
+1082|Katana
+1083|Ghost Tumbler Doll
+1084|Camera in a Pot
+1085|Randomized Ghost Warriors
+1086|Leaning Warrior (Lean Left)
+1087|Leaning Warrior (Lean Right)
+1088|Mini Pagoda on a Sliding Tile (Right)
+1089|Mini Pagoda on a Sliding Tile (Left)
+1090|Lowering Gem
+1091|Rising Dragon Mask
+1092|Bouncing Monster (Left)
+1093|Bouncing Monster (Right)
+1094|Soda Monster
+1095|Rising Monster Archway
+1096|Lowering Monster Archway
+1097|Mini Monster House
+1098|Modern Tower
+1099|Owl Tower
+1100|Skull Monster
+1101|Wheel Monster (Right)
+1102|Wheel Monster (Left)
+1103|Gem Stand
+1104|Opening Monster Wall
+1105|Closing Monster Wall
+1106|Tire Monster
+1107|Brain Monster
+1108|Floating Triangle Monster
+1109|Mini Monster House on a Sliding Tile (Right)
+1110|Mini Monster House on a Sliding Tile (Left)
+1111|Big 7 Years Cake
+1112|(Missing)
+1113|(Missing)
+1114|Rising Temple Archway
+1115|Lowering Temple Archway
+1116|Tall Pagoda
+1117|Bouncing Tiger (Left)
+1118|Bouncing Tiger (Right)
+1119|Bottles of Wine
+1120|Suspended Chinese Lantern
+1121|Chinese Fortune Symbol
+1122|Jumping Fish Arch
+1123|Hanging Paper Rabbits
+1124|Chinese Dragon Archway
+1125|Chinese City Wall
+1126|Palace Lantern
+1127|Firework Button
+1128|Circular Banner
+1129|Small Lantern
+1130|Hanging Lantern (Left)
+1131|Hanging Lantern (Right)
+1132|Small Lantern (Fragile)
+1133|Small Lantern (Sliding Right)
+1134|Small Lantern (Sliding Left)
+1135|Tall Pagoda (Fragile)
+1136|Tall Pagoda (Sliding Right)
+1137|Tall Pagoda (Sliding Left)
+1138|Jade Rabbit
+1139|Red Envelope (Down + Right)
+1140|Red Envelope (Down + Left)
+1141|Lantern Tower
+1142|Wide Chinese Archway
+1143|Chinese Handheald Fan
+1144|Chinese Paper Lantern
+1145|Shuttle Machine
+1146|Big Space Gate
+1147|Moon Lander
+1148|Moon Lander on a Fragile
+1149|Small Rocket
+1150|Big Rocket
+1151|Descent Capsule (Left)
+1152|Descent Capsule (Right)
+1153|Space Station
+1154|Ball Car (Left)
+1155|Ball Car (Right)
+1156|Space Rover
+1157|Space Rover on a Sliding Tile (Left)
+1158|Space Rover on a Sliding Tile (Right)
+1159|Space Elevator
+1160|Space Elevator on a Fragile
+1161|Observatory Dome
+1162|Grounded UFO
+1163|Grounded UFO on a Sliding Tile (Left)
+1164|Grounded UFO on a Sliding Tile (Right)
+1165|Satellite
+1166|Orbiting Planets
+1167|Jumping Astronaut
+1168|Jumping Astronaut on a Fragile
+1169|Waving Astronaut
+1170|Rocket Launch Site
+1171|Rocket Launch Site on a Fragile
+1172|Rocket Launch Site on a Sliding Tile (Left)
+1173|Rocket Launch Site on a Sliding Tile (Right)
+1174|Fortress Column (Forwards)
+1175|Fortress Column (Sideways)
+1176|Fortress Walls (▙)
+1177|Guarded Fortress Archway
+1178|Fortress Candelabra
+1179|Tall Chess Rook
+1180|Chess King
+1181|Sword Hanging over Ground
+1182|Sword Hanging over Fragile
+1183|Fortress Trophy
+1184|Small Chess Rook
+1185|Opening Fortress Doorway
+1186|Closing Fortress Doorway
+1187|Chess Queen
+1188|Fortress Flag (Left)
+1189|Fortress Flag (Right)
+1190|Fortress Soldier (Left)
+1191|Fortress Soldier (Right)
+1192|Chess Bishop
+1193|Chess Knight (Down 2, Left 1)
+1194|Chess Knight (Down 2, Right 1)
+1195|Embryo Tank (Right)
+1196|Embryo Tank (Left)
+1197|Warning Security Barrier (Right)
+1198|Warning Security Barrier (Left)
+1199|Eye Monster
+1200|Eye Monster on a Fragile
+1201|Eye Monster on a Sliding Tile (Left)
+1202|Eye Monster on a Sliding Tile (Right)
+1203|Laser Gun (Right)
+1204|Laser Gun (Left)
+1205|Dismembered Hand
+1206|Collapsing Warning Door
+1207|Opening Warning Door
+1208|Small Machine (Left)
+1209|Small Machine on a Fragile (Left)
+1210|Small Machine (Right)
+1211|Small Machine on a Fragile (Right)
+1212|Eye Monster [2]
+1213|Opening Warning Door [2]
+1214|Small Machine (Left) [2]
+1215|Small Machine (Right) [2]
+1216|Warning Security Barrier (Right) [2]
+1217|Warning Security Barrier (Left) [2]
+1218|Spotlight [2]
+1219|Spotlight on a Sliding Tile (Left)
+1220|Spotlight on a Sliding Tile (Right)
+1221|Fortress Walls (▟)
+1222|Tall Grass
+1223|Tall Grass on a Sliding Tile (Left)
+1224|Tall Grass on a Sliding Tile (Right)
+1225|Monkey Bush (Right)
+1226|Monkey Bush (Left)
+1227|Surfboard (Left)
+1228|Surfboard (Right)
+1229|Conch Shell Leaning Left
+1230|Conch Shell Leaning Left on a Sliding Tile (Left)
+1231|Conch Shell Leaning Left on a Sliding Tile (Right)
+1232|Conch Shell Leaning Right
+1233|Conch Shell Leaning Right on a Sliding Tile (Left)
+1234|Conch Shell Leaning Right on a Sliding Tile (Right)
+1235|Monkey (Right)
+1236|Monkey (Left)
+1237|Hanging Flowers
+1238|Mini Volcano
+1239|Mini Volcano on a Sliding Tile (Left)
+1240|Mini Volcano on a Sliding Tile (Right)
+1241|Stacked Skulls
+1242|Stacked Skulls on a Sliding Tile (Left)
+1243|Stacked Skulls on a Sliding Tile (Left)
+1244|Closing Jungle Doorway
+1245|Opening Jungle Doorway
+1246|Left Fire Spurter
+1247|Left Fire Spurter on a Sliding Tile (Left)
+1248|Left Fire Spurter on a Sliding Tile (Right)
+1249|Right Fire Spurter
+1250|Right Fire Spurter on a Sliding Tile (Left)
+1251|Right Fire Spurter on a Sliding Tile (Right)
+1252|Tree Flower
+1253|Big Leaf
+1254|Ancient Statue
+1255|Ancient Statue on a Sliding Tile (Left)
+1256|Ancient Statue on a Sliding Tile (Right)
+1257|Computer
+1258|Toppling Block Robot (Left)
+1259|Toppling Block Robot (Right)
+1260|Double Lowering Block
+1261|Wall Powerup (Counterclockwise)
+1262|Wall Powerup (Clockwise)
+1263|Active Broadcasting Tower
+1264|Cat Circle Roller (Right)
+1265|Cat Circle Roller (Left)
+1266|Cat King Tower
+1267|Technology Box
+1268|Technology Box on a Fragile Tile
+1269|Technology Box on a Sliding Tile (Left)
+1270|Technology Box on a Sliding Tile (Right)
+1271|Floating Cat Circle
+1272|Floating Cat Circle on a Fragile Tile
+1273|Right Technology Tower
+1274|Right Technology Tower on a Fragile Tile
+1275|Right Technology Tower on a Sliding Tile (Left)
+1276|Right Technology Tower on a Sliding Tile (Right)
+1277|Left Technology Tower
+1278|Left Technology Tower on a Fragile Tile
+1279|Left Technology Tower on a Sliding Tile (Left)
+1280|Left Technology Tower on a Sliding Tile (Right)
+1281|Top (1 Right)
+1282|Top (2 Right)
+1283|Top (3 Right)
+1284|Top (1 Left)
+1285|Top (2 Left)
+1286|Top (3 Left)
+1287|Mechanical Compass (Up)
+1288|Obstacle Swap
+1289|Lantern Slasher (Left)
+1290|Lantern Slasher (Right)
+1291|Dragon Mask with Sword
+1292|Japanese Flower
+1293|Opening Shoji Doors
+1294|Closing Shoji Doors
+1295|Lowering Torii
+1296|Rising Torii
+1297|Mini Pagoda
+1298|Katana
+1299|Ghost Tumbler Doll
+1300|Camera in a Pot
+1301|Randomized Ghost Warriors
+1302|Leaning Warrior (Lean Left)
+1303|Leaning Warrior (Lean Right)
+1304|Mini Pagoda on a Sliding Tile (Right)
+1305|Mini Pagoda on a Sliding Tile (Left)
+1306|Lowering Gem
+1307|Rising Dragon Mask
+1308|Bouncing Monster (Left)
+1309|Bouncing Monster (Right)
+1310|Soda Monster
+1311|Rising Monster Archway
+1312|Lowering Monster Archway
+1313|Mini Monster House
+1314|Modern Tower
+1315|Owl Tower
+1316|Skull Monster
+1317|Wheel Monster (Right)
+1318|Wheel Monster (Left)
+1319|Gem Stand
+1320|Opening Monster Wall
+1321|Closing Monster Wall
+1322|Tire Monster
+1323|Brain Monster
+1324|Floating Triangle Monster
+1325|Mini Monster House on a Sliding Tile (Right)
+1326|Mini Monster House on a Sliding Tile (Left)
+1327|Big 7 Years Cake
+1328|(Missing)
+1329|(Missing)
+1330|Rising Temple Archway
+1331|Lowering Temple Archway
+1332|Tall Pagoda
+1333|Bouncing Tiger (Left)
+1334|Bouncing Tiger (Right)
+1335|Bottles of Wine
+1336|Suspended Chinese Lantern
+1337|Chinese Fortune Symbol
+1338|Jumping Fish Arch
+1339|Hanging Paper Rabbits
+1340|Chinese Dragon Archway
+1341|Chinese City Wall
+1342|Palace Lantern
+1343|Firework Button
+1344|Circular Banner
+1345|Small Lantern
+1346|Hanging Lantern (Left)
+1347|Hanging Lantern (Right)
+1348|Small Lantern (Fragile)
+1349|Small Lantern (Sliding Right)
+1350|Small Lantern (Sliding Left)
+1351|Tall Pagoda (Fragile)
+1352|Tall Pagoda (Sliding Right)
+1353|Tall Pagoda (Sliding Left)
+1354|Jade Rabbit
+1355|Red Envelope (Down + Right)
+1356|Red Envelope (Down + Left)
+1357|Lantern Tower
+1358|Wide Chinese Archway
+1359|Chinese Handheald Fan
+1360|Chinese Paper Lantern
+1361|Shuttle Machine
+1362|Big Space Gate
+1363|Moon Lander
+1364|Moon Lander on a Fragile
+1365|Small Rocket
+1366|Big Rocket
+1367|Descent Capsule (Left)
+1368|Descent Capsule (Right)
+1369|Space Station
+1370|Ball Car (Left)
+1371|Ball Car (Right)
+1372|Space Rover
+1373|Space Rover on a Sliding Tile (Left)
+1374|Space Rover on a Sliding Tile (Right)
+1375|Space Elevator
+1376|Space Elevator on a Fragile
+1377|Observatory Dome
+1378|Grounded UFO
+1379|Grounded UFO on a Sliding Tile (Left)
+1380|Grounded UFO on a Sliding Tile (Right)
+1381|Satellite
+1382|Orbiting Planets
+1383|Jumping Astronaut
+1384|Jumping Astronaut on a Fragile
+1385|Waving Astronaut
+1386|Rocket Launch Site
+1387|Rocket Launch Site on a Fragile
+1388|Rocket Launch Site on a Sliding Tile (Left)
+1389|Rocket Launch Site on a Sliding Tile (Right)
+1390|Fortress Column (Forwards)
+1391|Fortress Column (Sideways)
+1392|Fortress Walls (▙)
+1393|Guarded Fortress Archway
+1394|Fortress Candelabra
+1395|Tall Chess Rook
+1396|Chess King
+1397|Sword Hanging over Ground
+1398|Sword Hanging over Fragile
+1399|Fortress Trophy
+1400|Small Chess Rook
+1401|Opening Fortress Doorway
+1402|Closing Fortress Doorway
+1403|Chess Queen
+1404|Fortress Flag (Left)
+1405|Fortress Flag (Right)
+1406|Fortress Soldier (Left)
+1407|Fortress Soldier (Right)
+1408|Chess Bishop
+1409|Chess Knight (Down 2, Left 1)
+1410|Chess Knight (Down 2, Right 1)
+1411|Embryo Tank (Right)
+1412|Embryo Tank (Left)
+1413|Warning Security Barrier (Right)
